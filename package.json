@@ -1,10 +1,9 @@
 {
   "name": "ivanfilho",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My installable resume.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +19,8 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.4.1"
+  },
+  "bin": {
+    "ivanfilho": "./index.js"
   }
 }
