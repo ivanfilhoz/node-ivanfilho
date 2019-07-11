@@ -1,0 +1,41 @@
+{
+  "status": "working as a Front-End Engineer at [cubos.io]",
+  "work": {
+    "message": "which job do you want to find out more about?",
+    "items": [
+      {
+        "title": "2018/12 - current | Cubos",
+        "response": "working as a React Front-End Engineer."
+      },
+      {
+        "title": "2018/02 - 2018/11 | BairesDev",
+        "response": "worked as a Node.js Back-End Engineer."
+      },
+      {
+        "title": "2015/10 - 2018/01 | selfHotel",
+        "response": "worked as an Angular Front-End Engineer, and later as a Project Manager."
+      },
+      {
+        "title": "2015/06 - 2015/09 | Diginet",
+        "response": "worked as a PHP Full-Stack Engineer."
+      },
+      {
+        "title": "2015/05 - 2015/06 | La Fiera",
+        "response": "worked as a Marketing Intern."
+      }
+    ]
+  },
+  "school": [
+    "attended Federal University of Bahia",
+    "studied Physics, Math, Engineering and Law",
+    "digging a Software Development degree at Cruzeiro do Sul University"
+  ],
+  "website": "my website is located at [www.ivanfilho.com]. check it out!",
+  "contact": [
+    "phone: [+55 71 99357-3912]",
+    "e-mail: [ivanslf@gmail.com]",
+    "github: [https://github.com/ivanslf]",
+    "facebook: [https://www.facebook.com/ivanslf]",
+    "linkedin: [https://www.linkedin.com/in/ivanslf]"
+  ]
+}
